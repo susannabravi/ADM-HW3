@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 HTML_folders/
+dataset.tsv
+merged_courses.tsv
