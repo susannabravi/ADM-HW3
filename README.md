@@ -33,9 +33,9 @@
    - GitHub URL: https://github.com/miladtorabi65
 
 ## Dataset we used:
-Based on the first question, we navigated through the 'findamasters' website and scraped 400 pages, each containing 15 course pages, resulting in the download of complete HTML pages for 6000 master's degrees. We then extracted the desired information by creating a TSV file for each HTML file. Finally, we merged all the TSV files to create our final dataset.
+Based on the first question, we navigated through the *'findamasters'* website and scraped 400 pages, each containing 15 course pages, resulting in the download of complete HTML pages for 6000 master's degrees. We then extracted the desired information by creating a TSV file for each HTML file. Finally, we merged all the TSV files to create our final dataset.
 
-In the CommandLine question, we also merged all TSV files related to each HTML page, using Shell code and stored them in the 'merged_courses.tsv' file.
+In the CommandLine question, we also merged all TSV files related to each HTML page, using Shell code and stored them in the *'merged_courses.tsv'* file.
 
 ## main.ipynb:
 This file contains the answers to the following homework questions:
